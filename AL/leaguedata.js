@@ -5,11 +5,11 @@ AmericanLeague = new Array( "AmericanLeague" );
 
 AmericanLeagueAmericanLeague = new Array( "BAA", "BOA", "CHA", "CLA", "DEA", "KCA", "NYA", "WAA" );
 
-BAA = new Array("AmericanLeague", "Baltimore", "Orioles", "Baltimore Orioles (BAA)", "1959", "58", "31", "27", ".534", ".613", ".444" );
-BOA = new Array("AmericanLeague", "Boston", "Red Sox", "Boston Red Sox (BOA)", "1959", "57", "24", "33", ".421", ".419", ".423" );
-CHA = new Array("AmericanLeague", "Chicago", "White Sox", "Chicago White Sox (CHA)", "1959", "58", "31", "27", ".534", ".567", ".500" );
-CLA = new Array("AmericanLeague", "Cleveland", "Indians", "Cleveland Indians (CLA)", "1959", "55", "28", "27", ".509", ".571", ".444" );
-DEA = new Array("AmericanLeague", "Detroit", "Tigers", "Detroit Tigers (DEA)", "1959", "58", "30", "28", ".517", ".654", ".406" );
-KCA = new Array("AmericanLeague", "Kansas City", "Athletics", "Kansas City Athletics (KCA)", "1959", "54", "26", "28", ".481", ".519", ".444" );
-NYA = new Array("AmericanLeague", "New York", "Yankees", "New York Yankees (NYA)", "1959", "56", "30", "26", ".536", ".520", ".548" );
-WAA = new Array("AmericanLeague", "Washington", "Senators", "Washington Senators (WAA)", "1959", "58", "27", "31", ".466", ".517", ".414" );
+BAA = new Array("AmericanLeague", "Baltimore", "Orioles", "Baltimore Orioles (BAA)", "1959", "65", "33", "32", ".508", ".553", ".444" );
+BOA = new Array("AmericanLeague", "Boston", "Red Sox", "Boston Red Sox (BOA)", "1959", "63", "28", "35", ".444", ".459", ".423" );
+CHA = new Array("AmericanLeague", "Chicago", "White Sox", "Chicago White Sox (CHA)", "1959", "64", "34", "30", ".531", ".567", ".500" );
+CLA = new Array("AmericanLeague", "Cleveland", "Indians", "Cleveland Indians (CLA)", "1959", "62", "31", "31", ".500", ".571", ".441" );
+DEA = new Array("AmericanLeague", "Detroit", "Tigers", "Detroit Tigers (DEA)", "1959", "65", "34", "31", ".523", ".654", ".436" );
+KCA = new Array("AmericanLeague", "Kansas City", "Athletics", "Kansas City Athletics (KCA)", "1959", "61", "31", "30", ".508", ".519", ".500" );
+NYA = new Array("AmericanLeague", "New York", "Yankees", "New York Yankees (NYA)", "1959", "63", "33", "30", ".524", ".500", ".548" );
+WAA = new Array("AmericanLeague", "Washington", "Senators", "Washington Senators (WAA)", "1959", "65", "30", "35", ".462", ".500", ".414" );
